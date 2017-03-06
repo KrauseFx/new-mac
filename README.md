@@ -53,3 +53,4 @@ The things I do when setting up a new Mac
 - [ ] Transfer iMessages history (`~/Library/Messages`)
 - [ ] Make emojis faster using `defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool false`
 - [ ] Enable taps for trackpad
+- [ ] Add email to lock message in `Security & Privacy` settings
