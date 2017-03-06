@@ -1,5 +1,7 @@
 # new-mac
 
+The things I do when setting up a new Mac
+
 ## Setup shell
 
 - [ ] Install [iTerm 3](https://www.iterm2.com/version3.html)
@@ -8,6 +10,7 @@
 - [ ] Setup [dotfiles](https://github.com/krausefx/dotfiles)
 - [ ] Follow [what-terminal-is-felix-using](https://github.com/KrauseFx/what-terminal-is-felix-using)
 - [ ] Transfer `.keys` file
+- [ ] Install my [brewfile](https://github.com/KrauseFx/brewfile/blob/master/Brewfile)
 
 ## Alfred
 
@@ -28,6 +31,23 @@
 
 - [ ] Migrate settings
 - [ ] Install plugins
+
+## Finder
+
+- [ ] Show Path Bar
+- [ ] Remove labels and clean up Sidebar
+
+## Dock
+
+- [ ] Auto-hide dock
+- [ ] Remove all the  things
+
+## Install and setup
+
+- [ ] [Telegram](https://itunes.apple.com/us/app/telegram/id747648890?mt=12)
+- [ ] [Aware](https://itunes.apple.com/us/app/aware/id1082170746?mt=12)
+- [ ] [Bartender](https://www.macbartender.com/)
+
 
 ## Other
 - [ ] Transfer iMessages history (`~/Library/Messages`)
