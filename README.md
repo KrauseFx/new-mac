@@ -4,9 +4,19 @@
 
 - [ ] Install [iTerm 3](https://www.iterm2.com/version3.html)
 - [ ] Install [homebrew](https://brew.sh)
+- [ ] Login locally on GitHub and Bitbucket
+- [ ] Setup [dotfiles](https://github.com/krausefx/dotfiles)
+- [ ] Follow [what-terminal-is-felix-using](https://github.com/KrauseFx/what-terminal-is-felix-using)
+- [ ] Transfer `.keys` file
 
-## [BetterTouchTool](https://www.boastr.net/)
+## Alfred
 
+- [ ] [Download](https://www.alfredapp.com/) and enable it for CMD + space
+- [ ] Enable sync via Dropbox
+
+## BetterTouchTool
+
+- [ ] Download, install and enable [BTT](https://www.boastr.net/)
 - [ ] Transfer settings from other Mac
 
 ## Tweetbot
