@@ -48,9 +48,12 @@ The things I do when setting up a new Mac
 - [ ] [Aware](https://itunes.apple.com/us/app/aware/id1082170746?mt=12)
 - [ ] [Bartender](https://www.macbartender.com/)
 - [ ] [Dejalu](https://dejalu.me/)
+- [ ] [Flux](https://justgetflux.com/)
+ 
 
 ## Other
 - [ ] Transfer iMessages history (`~/Library/Messages`)
 - [ ] Make emojis faster using `defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool false`
 - [ ] Enable taps for trackpad
 - [ ] Add email to lock message in `Security & Privacy` settings
+- [ ] Enable zoom for `control` + scrolling (System Preferences -> Accessibility -> Zoom -> `Use scroll gesture ...`
