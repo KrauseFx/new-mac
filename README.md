@@ -47,7 +47,7 @@ The things I do when setting up a new Mac
 - [ ] [Telegram](https://itunes.apple.com/us/app/telegram/id747648890?mt=12)
 - [ ] [Aware](https://itunes.apple.com/us/app/aware/id1082170746?mt=12)
 - [ ] [Bartender](https://www.macbartender.com/)
-- [ ] [Dejalu](https://dejalu.me/)
+- [ ] [DejaLu](https://dejalu.me/)
 - [ ] [Flux](https://justgetflux.com/)
 
 ## Other
