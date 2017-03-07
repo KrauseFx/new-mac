@@ -49,7 +49,6 @@ The things I do when setting up a new Mac
 - [ ] [Bartender](https://www.macbartender.com/)
 - [ ] [Dejalu](https://dejalu.me/)
 - [ ] [Flux](https://justgetflux.com/)
- 
 
 ## Other
 - [ ] Transfer iMessages history (`~/Library/Messages`)
@@ -57,3 +56,5 @@ The things I do when setting up a new Mac
 - [ ] Enable taps for trackpad
 - [ ] Add email to lock message in `Security & Privacy` settings
 - [ ] Enable zoom for `control` + scrolling (System Preferences -> Accessibility -> Zoom -> `Use scroll gesture ...`
+- [ ] Custom keyboard shortcut for all apps: `control` + tab => `Select Next Tab` and `Next Tab`, same for previous (used in applications like Tweetbot)
+
