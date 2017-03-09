@@ -54,7 +54,9 @@ The things I do when setting up a new Mac
 - [ ] Transfer iMessages history (`~/Library/Messages`)
 - [ ] Make emojis faster using `defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool false`
 - [ ] Enable taps for trackpad
+- [ ] Increase trackpad speed
 - [ ] Add email to lock message in `Security & Privacy` settings
 - [ ] Enable zoom for `control` + scrolling (System Preferences -> Accessibility -> Zoom -> `Use scroll gesture ...`
 - [ ] Custom keyboard shortcut for all apps: `control` + tab => `Select Next Tab` and `Next Tab`, same for previous (used in applications like Tweetbot)
+- [ ] Keyboard `Key Repeat` to the fastest, `Delay` to the second shortest
 
