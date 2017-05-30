@@ -59,4 +59,5 @@ The things I do when setting up a new Mac
 - [ ] Enable zoom for `control` + scrolling (System Preferences -> Accessibility -> Zoom -> `Use scroll gesture ...`
 - [ ] Custom keyboard shortcut for all apps: `control` + tab => `Select Next Tab` and `Next Tab`, same for previous (used in applications like Tweetbot)
 - [ ] Keyboard `Key Repeat` to the fastest, `Delay` to the second shortest
+- [ ] Enable US keyboard with German Umlaut mapping (see `USGermanKeyboard` folder)
 
