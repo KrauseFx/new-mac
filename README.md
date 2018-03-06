@@ -11,6 +11,7 @@ The things I do when setting up a new Mac
 - [ ] Follow [what-terminal-is-felix-using](https://github.com/KrauseFx/what-terminal-is-felix-using)
 - [ ] Transfer `.keys` file
 - [ ] Install my [brewfile](https://github.com/KrauseFx/brewfile/blob/master/Brewfile)
+- [ ] Login to heroku
 
 ## Alfred
 
@@ -49,8 +50,12 @@ The things I do when setting up a new Mac
 - [ ] [Bartender](https://www.macbartender.com/)
 - [ ] [DejaLu](https://dejalu.me/)
 - [ ] [Flux](https://justgetflux.com/)
+- [ ] [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
+- [ ] [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html)
+- [ ] [Apple watch screensaver](http://www.rasmusnielsen.dk/applewatch/)
 
 ## Other
+
 - [ ] Transfer iMessages history (`~/Library/Messages`)
 - [ ] Make emojis faster using `defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool false`
 - [ ] Enable taps for trackpad
