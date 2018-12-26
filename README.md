@@ -53,6 +53,7 @@ The things I do when setting up a new Mac
 - [ ] [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
 - [ ] [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html)
 - [ ] [Apple watch screensaver](http://www.rasmusnielsen.dk/applewatch/)
+- [ ] [Overkill - kill iTunes](https://github.com/KrauseFx/overkill-for-mac/releases/download/1.0/Overkill.zip)
 
 ## Other
 
