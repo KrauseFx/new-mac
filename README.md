@@ -4,8 +4,9 @@ The things I do when setting up a new Mac
 
 ## Setup shell
 
-- [ ] Install [iTerm 3](https://www.iterm2.com/version3.html)
 - [ ] Install [homebrew](https://brew.sh)
+- [ ] Install [Caskfile](Caskfile) and [Brewfile](Brewfile)
+- [ ] Install [iTerm 3](https://www.iterm2.com/version3.html)
 - [ ] Login locally on GitHub
 - [ ] Setup [dotfiles](https://github.com/krausefx/dotfiles)
 - [ ] Follow [what-terminal-is-felix-using](https://github.com/KrauseFx/what-terminal-is-felix-using)
