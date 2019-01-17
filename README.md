@@ -6,7 +6,7 @@ The things I do when setting up a new Mac
 
 - [ ] Install [iTerm 3](https://www.iterm2.com/version3.html)
 - [ ] Install [homebrew](https://brew.sh)
-- [ ] Login locally on GitHub and Bitbucket
+- [ ] Login locally on GitHub
 - [ ] Setup [dotfiles](https://github.com/krausefx/dotfiles)
 - [ ] Follow [what-terminal-is-felix-using](https://github.com/KrauseFx/what-terminal-is-felix-using)
 - [ ] Transfer `.keys` file
@@ -16,7 +16,7 @@ The things I do when setting up a new Mac
 ## Alfred
 
 - [ ] [Download](https://www.alfredapp.com/) and enable it for CMD + space
-- [ ] Enable sync via Dropbox
+- [ ] Enable sync via Google Drive
 
 ## BetterTouchTool
 
@@ -45,6 +45,7 @@ The things I do when setting up a new Mac
 
 ## Install and setup
 
+- [ ] Google Drive
 - [ ] [Telegram](https://itunes.apple.com/us/app/telegram/id747648890?mt=12)
 - [ ] [Aware](https://itunes.apple.com/us/app/aware/id1082170746?mt=12)
 - [ ] [Bartender](https://www.macbartender.com/)
@@ -66,4 +67,4 @@ The things I do when setting up a new Mac
 - [ ] Custom keyboard shortcut for all apps: `control` + tab => `Select Next Tab` and `Next Tab`, same for previous (used in applications like Tweetbot)
 - [ ] Keyboard `Key Repeat` to the fastest, `Delay` to the second shortest
 - [ ] Enable US keyboard with German Umlaut mapping (see `USGermanKeyboard` folder)
-
+- [ ] Install Bitbar and point to Google Drive Bitbar folder
