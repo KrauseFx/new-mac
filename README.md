@@ -56,6 +56,15 @@ The things I do when setting up a new Mac
 - [ ] [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html)
 - [ ] [Apple watch screensaver](http://www.rasmusnielsen.dk/applewatch/)
 - [ ] [Overkill - kill iTunes](https://github.com/KrauseFx/overkill-for-mac/releases/download/1.0/Overkill.zip)
+- [ ] NSLogger
+
+## Mac App Store
+
+- [ ] [Trello](https://itunes.apple.com/us/app/trello/id1278508951?mt=12)
+- [ ] Tweetbot
+- [ ] Bear Notes
+- [ ] Pixelmator
+- [ ] Timing
 
 ## Other
 
