@@ -13,6 +13,7 @@ The things I do when setting up a new Mac
 - [ ] Transfer `.keys` file
 - [ ] Install my [brewfile](https://github.com/KrauseFx/brewfile/blob/master/Brewfile)
 - [ ] Login to heroku
+- [ ] [Disable Ruby documentation parsing](http://mts.io/2015/04/19/fix-slow-gem-install/)
 
 ## Alfred
 
