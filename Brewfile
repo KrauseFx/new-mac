@@ -1,4 +1,4 @@
-heroku
+heroku/brew/heroku
 pngquant
 node
 youtube-dl
