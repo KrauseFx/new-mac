@@ -8,6 +8,7 @@ slack
 tower
 arq
 postico
+charles
 postgres
 iterm2
 1password
