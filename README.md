@@ -51,7 +51,6 @@ The things I do when setting up a new Mac
 - [ ] [Aware](https://itunes.apple.com/us/app/aware/id1082170746?mt=12)
 - [ ] [Bartender](https://www.macbartender.com/)
 - [ ] [DejaLu](https://dejalu.me/)
-- [ ] [Flux](https://justgetflux.com/)
 - [ ] [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
 - [ ] [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html)
 - [ ] [Apple watch screensaver](http://www.rasmusnielsen.dk/applewatch/)
