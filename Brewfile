@@ -7,3 +7,4 @@ imagemagick
 ffmpeg
 openssl
 sqlite
+docker
