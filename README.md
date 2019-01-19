@@ -11,7 +11,6 @@ The things I do when setting up a new Mac
 - [ ] Setup [dotfiles](https://github.com/krausefx/dotfiles)
 - [ ] Follow [what-terminal-is-felix-using](https://github.com/KrauseFx/what-terminal-is-felix-using)
 - [ ] Transfer `.keys` file
-- [ ] Install my [brewfile](https://github.com/KrauseFx/brewfile/blob/master/Brewfile)
 - [ ] Login to heroku
 - [ ] [Disable Ruby documentation parsing](http://mts.io/2015/04/19/fix-slow-gem-install/)
 
