@@ -9,6 +9,8 @@ tower
 arq
 postico
 postgres
+iterm2
+1password
 
 # Quicklook plugins
 quicklook-csv
