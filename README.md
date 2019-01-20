@@ -77,3 +77,4 @@ The things I do when setting up a new Mac
 - [ ] Keyboard `Key Repeat` to the fastest, `Delay` to the second shortest
 - [ ] Enable US keyboard with German Umlaut mapping (see `USGermanKeyboard` folder)
 - [ ] Install Bitbar and point to Google Drive Bitbar folder
+- [ ] Disable all app dock bouncing `defaults write com.apple.dock no-bouncing -bool TRUE`
