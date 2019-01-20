@@ -78,3 +78,4 @@ The things I do when setting up a new Mac
 - [ ] Enable US keyboard with German Umlaut mapping (see `USGermanKeyboard` folder)
 - [ ] Install Bitbar and point to Google Drive Bitbar folder
 - [ ] Disable all app dock bouncing `defaults write com.apple.dock no-bouncing -bool TRUE`
+- [ ] Disable Siri system wide, and remove Siri button from touch bar
