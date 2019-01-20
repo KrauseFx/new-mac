@@ -28,7 +28,6 @@ The things I do when setting up a new Mac
 ## Tweetbot
 
 - [ ] Login to all accounts
-- [ ] Setup 3 panes
 
 ## Sublime Text
 
