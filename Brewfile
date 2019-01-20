@@ -8,3 +8,4 @@ ffmpeg
 openssl
 sqlite
 docker
+rbenv
