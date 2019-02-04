@@ -81,3 +81,4 @@ The things I do when setting up a new Mac
 - [ ] Disable Siri system wide, and remove Siri button from touch bar
 - [ ] `defaults write com.flexibits.fantastical2.mac HideLocationSuggestions -bool YES`
 - [ ] `defaults write com.flexibits.fantastical2.mac AlwaysIgnoreLocation -bool YES`
+- [ ] Fantastical Advanced setting `Go to today after adding items` (who even comes up with that default)
