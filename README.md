@@ -79,3 +79,5 @@ The things I do when setting up a new Mac
 - [ ] Install Bitbar and point to Google Drive Bitbar folder
 - [ ] Disable all app dock bouncing `defaults write com.apple.dock no-bouncing -bool TRUE`
 - [ ] Disable Siri system wide, and remove Siri button from touch bar
+- [ ] `defaults write com.flexibits.fantastical2.mac HideLocationSuggestions -bool YES`
+- [ ] `defaults write com.flexibits.fantastical2.mac AlwaysIgnoreLocation -bool YES`
