@@ -82,3 +82,7 @@ The things I do when setting up a new Mac
 - [ ] `defaults write com.flexibits.fantastical2.mac HideLocationSuggestions -bool YES`
 - [ ] `defaults write com.flexibits.fantastical2.mac AlwaysIgnoreLocation -bool YES`
 - [ ] Fantastical Advanced setting `Go to today after adding items` (who even comes up with that default)
+- [ ] [Disable all kinds of animations](https://apple.stackexchange.com/questions/14001/how-to-turn-off-all-animations-on-os-x)
+  - [ ] `defaults write -g NSAutomaticWindowAnimationsEnabled -bool false` (disable popover animations)
+  - [ ] `defaults write -g NSWindowResizeTime -float 0.001`
+
