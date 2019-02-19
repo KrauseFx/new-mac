@@ -85,4 +85,5 @@ The things I do when setting up a new Mac
 - [ ] [Disable all kinds of animations](https://apple.stackexchange.com/questions/14001/how-to-turn-off-all-animations-on-os-x)
   - [ ] `defaults write -g NSAutomaticWindowAnimationsEnabled -bool false` (disable popover animations)
   - [ ] `defaults write -g NSWindowResizeTime -float 0.001`
+- [ ] System preferences -> Notifications -> `Tower` -> None, as Tower shows pretty useless notifications all the time
 
