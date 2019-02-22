@@ -86,4 +86,6 @@ The things I do when setting up a new Mac
   - [ ] `defaults write -g NSAutomaticWindowAnimationsEnabled -bool false` (disable popover animations)
   - [ ] `defaults write -g NSWindowResizeTime -float 0.001`
 - [ ] System preferences -> Notifications -> `Tower` -> None, as Tower shows pretty useless notifications all the time
-
+- [ ] Setup `/etc/hosts` using [someonewhocares.org/hosts](https://someonewhocares.org/hosts/)
+  - [ ] Don't use Little Snitch for this, as it will slow down their UI a lot, better use the hosts file
+- [ ] Block port 80 using Little Snitch
