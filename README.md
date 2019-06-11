@@ -89,3 +89,4 @@ The things I do when setting up a new Mac
 - [ ] Setup `/etc/hosts` using [someonewhocares.org/hosts](https://someonewhocares.org/hosts/)
   - [ ] Don't use Little Snitch for this, as it will slow down their UI a lot, better use the hosts file
 - [ ] Block port 80 using Little Snitch
+- [ ] Change the screenshot location using the Screenshot app to `~/Google Drive/Screenshots`
