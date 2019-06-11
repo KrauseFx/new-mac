@@ -1,7 +1,6 @@
 # Mac apps
 google-chrome
 vlc
-steam
 spotify
 telegram
 slack
@@ -14,21 +13,25 @@ iterm2
 1password
 alfred
 fantastical
+bettertouchtool
 sublime-text
 timing
 rescuetime
 bartender
 aware
-expressvpn
 little-snitch
 micro-snitch
 messenger
-tripmode
 overkill
 istat-menus
 bitbar
 paw
 google-backup-and-sync
+
+# Personal
+tripmode
+expressvpn
+steam
 
 # Quicklook plugins
 quicklook-csv
