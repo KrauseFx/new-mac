@@ -9,3 +9,4 @@ openssl
 sqlite
 docker
 rbenv
+wget
