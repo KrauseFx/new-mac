@@ -10,3 +10,4 @@ sqlite
 docker
 rbenv
 wget
+gpg
