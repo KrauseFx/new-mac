@@ -90,3 +90,4 @@ The things I do when setting up a new Mac
 - [ ] Block port 80 using Little Snitch
 - [ ] Change the screenshot location from BTT
 - [ ] Transfer keybase.io account
+- [ ] Keyboard settings -> Shortcuts -> Input Sources -> Uncheck both input source switching options
