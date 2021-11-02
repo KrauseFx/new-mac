@@ -10,8 +10,8 @@ The things I do when setting up a new Mac
 - [ ] Login locally on GitHub
 - [ ] Setup [dotfiles](https://github.com/krausefx/dotfiles)
 - [ ] Follow [what-terminal-is-felix-using](https://github.com/KrauseFx/what-terminal-is-felix-using)
-- [ ] Transfer `.keys` file
 - [ ] Login to heroku
+- [ ] Transfer `~/Developer` folder using Airdrop to also transfer hidden `.keys` files and such
 - [ ] [Disable Ruby documentation parsing](http://mts.io/2015/04/19/fix-slow-gem-install/)
 - [ ] Install [zeit now](https://zeit.co/) `npm install -g now`
 
@@ -29,10 +29,10 @@ The things I do when setting up a new Mac
 
 - [ ] Login to all accounts
 
-## Sublime Text
+## VS Code
 
-- [ ] Migrate settings
-- [ ] Install plugins
+- [ ] Login for settings sync
+- [ ] CMD + Shift + P => `install code command`
 
 ## Finder
 
@@ -46,7 +46,6 @@ The things I do when setting up a new Mac
 
 ## Install and setup
 
-- [ ] Google Drive
 - [ ] [Telegram](https://itunes.apple.com/us/app/telegram/id747648890?mt=12)
 - [ ] [Aware](https://itunes.apple.com/us/app/aware/id1082170746?mt=12)
 - [ ] [Bartender](https://www.macbartender.com/)
@@ -67,7 +66,7 @@ The things I do when setting up a new Mac
 
 ## Other
 
-- [ ] Transfer iMessages history (`~/Library/Messages`)
+- [ ] Enable iMessages Cloud sync
 - [ ] Make emojis faster using `defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool false`
 - [ ] Enable taps for trackpad
 - [ ] Increase trackpad speed
@@ -85,9 +84,9 @@ The things I do when setting up a new Mac
 - [ ] [Disable all kinds of animations](https://apple.stackexchange.com/questions/14001/how-to-turn-off-all-animations-on-os-x)
   - [ ] `defaults write -g NSAutomaticWindowAnimationsEnabled -bool false` (disable popover animations)
   - [ ] `defaults write -g NSWindowResizeTime -float 0.001`
-- [ ] System preferences -> Notifications -> `Tower` -> None, as Tower shows pretty useless notifications all the time
+- [ ] System preferences -> Notifications -> `Tower` -> None, as Tower shows pretty useless notifications all the time, same for Sonos
 - [ ] Setup `/etc/hosts` using [someonewhocares.org/hosts](https://someonewhocares.org/hosts/)
   - [ ] Don't use Little Snitch for this, as it will slow down their UI a lot, better use the hosts file
 - [ ] Block port 80 using Little Snitch
-- [ ] Change the screenshot location using the Screenshot app to `~/Google Drive/Screenshots`
+- [ ] Change the screenshot location from BTT
 - [ ] Transfer keybase.io account
