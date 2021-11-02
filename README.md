@@ -74,7 +74,7 @@ The things I do when setting up a new Mac
 - [ ] Enable zoom for `control` + scrolling (System Preferences -> Accessibility -> Zoom -> `Use scroll gesture ...`
 - [ ] Custom keyboard shortcut for all apps: `control` + tab => `Select Next Tab` and `Next Tab`, same for previous (used in applications like Tweetbot)
 - [ ] Keyboard `Key Repeat` to the fastest, `Delay` to the second shortest
-- [ ] Enable US keyboard with German Umlaut mapping (see `USGermanKeyboard` folder)
+- [ ] Enable US keyboard with German Umlaut mapping: https://hci.rwth-aachen.de/usgermankeyboard
 - [ ] Install Bitbar and point to Google Drive Bitbar folder
 - [ ] Disable all app dock bouncing `defaults write com.apple.dock no-bouncing -bool TRUE`
 - [ ] Disable Siri system wide, and remove Siri button from touch bar
