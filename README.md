@@ -91,3 +91,6 @@ The things I do when setting up a new Mac
 - [ ] Change the screenshot location from BTT
 - [ ] Transfer keybase.io account
 - [ ] Keyboard settings -> Shortcuts -> Input Sources -> Uncheck both input source switching options
+- [ ] iTerm Tab Bar Location to bottom
+- [ ] iTerm Profiles Advanced -> Select Editor VS Code
+- [ ] iTerm Profiles Terminal -> Scrollback lines -> `Unlimited scrollback`
