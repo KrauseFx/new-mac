@@ -2,6 +2,9 @@
 
 The things I do when setting up a new Mac
 
+## New
+- [ ] Install Tailscale
+
 ## Setup shell
 
 - [ ] Install [homebrew](https://brew.sh)
