@@ -10,24 +10,7 @@ The things I do when setting up a new Mac
 - [ ] Login locally on GitHub
 - [ ] Setup [dotfiles](https://github.com/krausefx/dotfiles)
 - [ ] Follow [what-terminal-is-felix-using](https://github.com/KrauseFx/what-terminal-is-felix-using)
-- [ ] Login to heroku
 - [ ] Transfer `~/Developer` folder using Airdrop to also transfer hidden `.keys` files and such
-- [ ] [Disable Ruby documentation parsing](http://mts.io/2015/04/19/fix-slow-gem-install/)
-- [ ] Install [zeit now](https://zeit.co/) `npm install -g now`
-
-## Alfred
-
-- [ ] [Download](https://www.alfredapp.com/) and enable it for CMD + space
-- [ ] Enable sync via Google Drive
-
-## BetterTouchTool
-
-- [ ] Download, install and enable [BTT](https://www.boastr.net/)
-- [ ] Transfer settings from other Mac
-
-## Tweetbot
-
-- [ ] Login to all accounts
 
 ## VS Code
 
@@ -48,7 +31,6 @@ The things I do when setting up a new Mac
 
 - [ ] [Telegram](https://itunes.apple.com/us/app/telegram/id747648890?mt=12)
 - [ ] [Aware](https://itunes.apple.com/us/app/aware/id1082170746?mt=12)
-- [ ] [Bartender](https://www.macbartender.com/)
 - [ ] [DejaLu](https://dejalu.me/)
 - [ ] [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
 - [ ] [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html)
@@ -59,7 +41,6 @@ The things I do when setting up a new Mac
 ## Mac App Store
 
 - [ ] [Trello](https://itunes.apple.com/us/app/trello/id1278508951?mt=12)
-- [ ] Tweetbot
 - [ ] Bear Notes
 - [ ] Pixelmator
 - [ ] Timing
